@@ -17,7 +17,7 @@ The project implements a CNN architecture using TensorFlow's Keras API to perfor
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/CNN_CIFAR-10_Classification.git
+   https://github.com/WarunaDissanayake1234/CNN-for-CIFAR-10-Classification.git
    ```
 
 2. **Install Dependencies:**
